@@ -7,6 +7,10 @@ CORDIAL is a new benchmark focused on Multimodal Discourse Analysis using Cohere
 
 Code and Benchmark Dataset will be released shortly.
 
+## News 🚀
+- [2025-05-17] CORDIAL has been accepted to [ACL (Main) 2025](https://2025.aclweb.org/).
+- [2025-02-16] Our paper is available on [arxiv](https://arxiv.org/abs/2502.11300).
+
 ## Citing
 If you find our work useful, please consider citing:
 ```BibTeX
