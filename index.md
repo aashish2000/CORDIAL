@@ -4,6 +4,8 @@ permalink: /
 
 title: "CORDIAL: Can Multimodal Large Language Models Effectively Understand Coherence Relationships?"
 
+subtitle: "Accepted to ACL 2025 (Main)"
+
 authors: Aashish Anantha Ramakrishnan, Aadarsh Anantha Ramakrishnan, Dongwon Lee
 
 affiliations: The Pennsylvania State University, National Institute of Technology Tiruchirappalli
