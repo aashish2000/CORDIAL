@@ -13,7 +13,7 @@ affiliations: The Pennsylvania State University, National Institute of Technolog
 paper: https://www.arxiv.org/pdf/2502.11300
 # video: https://www.youtube.com/results?search_query=
 code: https://github.com/aashish2000/CORDIAL
-data: https://huggingface.co/docs/datasets
+data: https://huggingface.co/datasets/aashananth/CORDIAL
 ---
 
 <!-- Using HTML to center the abstract -->
