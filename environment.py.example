@@ -1,0 +1,9 @@
+DATASET_ROOT_DIRS = {
+    'clue_ml'       : '/path/to/dataset',
+    'clue_sl_hard'  : '/path/to/dataset',
+    'disrel_sl'     : '/path/to/dataset',
+    'tweets_sl'     : '/path/to/dataset',
+}
+
+GEMINI_API_KEY='YOUR_API_KEY'
+OPENAI_API_KEY='YOUR_API_KEY'
